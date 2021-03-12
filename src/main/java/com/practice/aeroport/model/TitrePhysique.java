@@ -1,2 +1,7 @@
-package com.practice.aeroport.model;public enum TitrePhysique {
+package com.practice.aeroport.model;
+
+public enum TitrePhysique {
+
+    Miss,Mrs,Mr;
+
 }
